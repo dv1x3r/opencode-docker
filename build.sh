@@ -1,1 +1,1 @@
-docker build -t "opencode-ai" .
+docker build --no-cache -t "opencode-ai" .
